@@ -54,7 +54,7 @@ yasmin , yaz , yervoy , yescarta , yondelis , yosprala , yupelri
 Z:
 zanaflex , zantac , zarxio , zebeta , zejula , zenpep , zeposia , zestoretic , zestril , zetia , ziac , zilretta , zithromax , zocor , zofran , zoladex , zoloft , zolpidem , zometa , zomig , zonegran , zosyn , zovirax , zubsolv , zyban , zydelig , zykadia , zyprexa , zyrtec , zytiga , zyvox
 
-##Drug Classifications ( # - A - Z )
+## Drug Classifications ( # - A - Z )
 NOTE: when requesting a classification with spaces in the name, replace the spaces with underscores - “_”
 EXAMPLE: The classification "Beta blockers with thiazides" would instead be "Beta_blockers_with_thiazides"
 5:
